@@ -14,12 +14,6 @@
         "resources": {
             "media": [
                 {
-                    "file": "data/adverbs.txt",
-                    "name": "ADVERBS",
-                    "targetPlatforms": null,
-                    "type": "raw"
-                },
-                {
                     "file": "data/verbs.txt",
                     "name": "VERBS",
                     "targetPlatforms": null,
@@ -34,6 +28,12 @@
                 {
                     "file": "data/madlibs.txt",
                     "name": "MADLIBS",
+                    "targetPlatforms": null,
+                    "type": "raw"
+                },
+                {
+                    "file": "data/adverbs.txt",
+                    "name": "ADVERBS",
                     "targetPlatforms": null,
                     "type": "raw"
                 },
